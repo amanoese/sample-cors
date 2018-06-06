@@ -1,0 +1,18 @@
+{
+  "name": "sample-cors-anywhere",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors-anywhere": "https://github.com/amanoese/cors-anywhere.git#ae8ec6a515ac8e58785d22916e5635d8d1bb0a15"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
